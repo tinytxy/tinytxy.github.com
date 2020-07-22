@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroImage: /image/hero.png
+heroText: Tanxinyu's Blog
+tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:

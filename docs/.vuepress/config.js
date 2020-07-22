@@ -2,6 +2,7 @@ module.exports = {
   base: '/myblog/',
   title: 'blog-demo',
   description: 'Vuepress blog demo',
+  theme: 'vdoing',
   themeConfig: {
     // 你的GitHub仓库，请正确填写
     repo: 'https://github.com/tinytxy/myblog',
