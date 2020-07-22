@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/myblog',
+  base: '/myblog/',
   title: 'blog-demo',
   description: 'Vuepress blog demo',
   themeConfig: {
