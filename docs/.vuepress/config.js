@@ -1,10 +1,10 @@
 module.exports = {
-  base: '/tinytxy.github.com',
+  base: '/myblog',
   title: 'blog-demo',
   description: 'Vuepress blog demo',
   themeConfig: {
     // 你的GitHub仓库，请正确填写
-    repo: 'https://github.com/tinytxy/tinytxy.github.com',
+    repo: 'https://github.com/tinytxy/myblog',
     // 自定义仓库链接文字。
     repoLabel: 'My GitHub',
     nav: [
